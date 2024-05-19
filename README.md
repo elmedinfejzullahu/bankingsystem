@@ -1,5 +1,5 @@
 #Simple Banking System
-This is a basic Java SpringBoot for a simple banking system. It allows users to create accounts, sign in, check balances, withdraw and deposit funds, transfer money between accounts, and view transaction history.
+This is a basic Java SpringBoot project for a simple banking system. It allows users to create accounts, sign in, check balances, withdraw and deposit funds, transfer money between accounts, and view transaction history.
 #Usage
 1. Clone Repository: git clone https://github.com/your-username/simple-banking-system.git
 2. Than change the configuration needed on docker-compose.yml
@@ -22,5 +22,5 @@ Transaction History (Option 5)
 Sign Out (Option 6
 In order to use these functions, we need to press the button that says the numbers at the end.
 ##
-1. Some of switch cases need to have a line brake;
+1. Some of switch cases need to have a line --break;
    :)
